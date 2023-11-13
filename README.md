@@ -109,6 +109,8 @@ predict(w1,w2,test)
 
 ## Output
 <img width="615" alt="image" src="https://github.com/KoduruSanathKumarReddy/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/assets/69503902/22645637-d8c9-4216-b133-943d90371f69">
+
+
 <img width="225" alt="image" src="https://github.com/KoduruSanathKumarReddy/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/assets/69503902/88124f24-ac9e-4804-870f-3a703718dfa6">
 
 
